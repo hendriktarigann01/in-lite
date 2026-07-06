@@ -7,7 +7,7 @@ import {
   Hero,
   Promo,
   Menu,
-  MediaCoverage,
+
   Location,
   Facility,
   Advantage,
@@ -40,7 +40,6 @@ export default function HomePage() {
       <Location />
       <Branches />
       <AboutUs />
-      <MediaCoverage />
       <FAQ />
       <CTA />
 
