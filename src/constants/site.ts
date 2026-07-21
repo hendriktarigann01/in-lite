@@ -24,7 +24,7 @@ export const SITE_CONFIG = {
 
   /** Nomor WhatsApp (format internasional, tanpa +) */
   whatsapp: {
-    number: "628111402525",
+    number: "6281234567890",
     message:
       "Halo in-Lite Indonesia, saya tertarik dengan produk pencahayaan atau sakelar Alura & Linea Series.",
   },

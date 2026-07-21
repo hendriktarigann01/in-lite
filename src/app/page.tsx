@@ -60,7 +60,7 @@ export default function HomePage() {
             name: SITE_CONFIG.name,
             image: SITE_CONFIG.url + "/inlite.webp",
             url: SITE_CONFIG.url,
-            telephone: "+622142880671",
+            telephone: "+622100000000",
             logo: SITE_CONFIG.url + "/inlite.webp",
             address: {
               "@type": "PostalAddress",

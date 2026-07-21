@@ -199,21 +199,21 @@ export const BRANCHES_CONTENT: BranchContent = {
       id:      "br-bandung",
       name:    "Cabang Bandung",
       address: "Kawasan Pergudangan BIZ PARK Blok AA6 No. 5, Kec. Kopo, Bandung, Jawa Barat 40233",
-      phone:   "+62 22 8888 671",
+      phone:   "+62 22 0000 0000",
       hours:   "08.00 – 17.00",
     },
     {
       id:      "br-surabaya",
       name:    "Cabang Surabaya",
       address: "Jl. Mangkunegoro No. 5, RT006 RW010, Darmo Wonokromo, Surabaya, Jawa Timur 60241",
-      phone:   "+62 31 7777 671",
+      phone:   "+62 31 0000 0000",
       hours:   "08.00 – 17.00",
     },
     {
       id:      "br-makassar",
       name:    "Cabang Makassar",
       address: "Jl. Pangeran Diponegoro 110 (Lama) / 124 (Baru) RT001 RW001, Bontoala Parang, Makassar, Sulawesi Selatan 90154",
-      phone:   "+62 411 9999 671",
+      phone:   "+62 411 0000 0000",
       hours:   "08.00 – 17.00",
     }
   ]
@@ -228,7 +228,7 @@ export const LOCATION_CONTENT: LocationContent = {
     "Kantor pusat kami berlokasi strategis di Jakarta Pusat, mengoordinasikan seluruh operasional, manufaktur, QC ketat, dan distribusi omnichannel in-Lite ke seluruh penjuru tanah air guna mewujudkan visi #TerangIndonesia.",
   address:
     "Gedung Indra Sentra Blok AE-AF-AG, Jl. Letjen Suprapto No. 60, Cempaka Putih Barat, Jakarta Pusat, DKI Jakarta 10520",
-  phone: "+62 21 42880671",
+  phone: "+62 21 00000000",
   hours: {
     "Senin - Jumat": "08.30 – 17.30 (Hari Kerja)",
     "Sabtu - Minggu": "Tutup (Akhir Pekan)",
